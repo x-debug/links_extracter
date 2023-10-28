@@ -1,5 +1,5 @@
 {
-  "name": "@x-debug/directory_manager",
+  "name": "@xdebug/links_extracter",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -11,13 +11,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "dirmanager",
-    "directory"
+    "pdf extracter",
+    "links extractar"
   ],
   "author": "x-debug",
   "license": "ISC",
-  "repository": "https://github.com/x-debug/directory_manager",
-  "homepage": "https://github.com/x-debug/directory_manager#readme",
+  "repository": "https://github.com/x-debug/links_extracter",
+  "homepage": "https://github.com/x-debug/links_extracter#readme",
   "dependencies": {
     "commander": "^11.1.0",
     "figlet": "^1.7.0"
