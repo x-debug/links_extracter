@@ -20,7 +20,8 @@
   "homepage": "https://github.com/x-debug/links_extracter#readme",
   "dependencies": {
     "commander": "^11.1.0",
-    "figlet": "^1.7.0"
+    "figlet": "^1.7.0",
+    "pdf.js-extract": "^0.2.1"
   },
   "devDependencies": {
     "@types/figlet": "^1.5.7",
